@@ -1,0 +1,8 @@
+# Setup
+npm install
+
+# Install webcomponentsjs
+npm run installwebcomponentsjs
+
+# Dev server
+npm run runserver
